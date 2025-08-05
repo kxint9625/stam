@@ -1,3 +1,1 @@
-# stam
-
-test
+Please kindly find the source code in the supplementary_material.zip file.
